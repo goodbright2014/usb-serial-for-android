@@ -156,3 +156,4 @@ Are you using the library? Add your project to
 [ProjectsUsingUsbSerialForAndroid](https://github.com/mik3y/usb-serial-for-android/wiki/Projects-Using-usb-serial-for-android).
 # usb-serial-for-android
 # usb-serial-for-android
+jaehyu
